@@ -1,0 +1,2 @@
+README
+This is a project from the Odin Project course on html/css. It can be found here: https://www.theodinproject.com/courses/html5-and-css3/lessons/html-forms The point of this project is to become more familiar with form layouts and design by copying the signup page from mint.com
