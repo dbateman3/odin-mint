@@ -1,9 +1,13 @@
 form {
-	border: 1px solid;
+	margin: auto;
+	border: 1px solid #c7c7c7;
 	border-radius: 0;
-	overflow: hidden;
-	width: 280px;
-	padding: 10px;
+	overflow: visible;
+	width: 300px;
+	padding: 30px;
+	line-height: 1.5;
+	height: 80%;
+	outline: none;
 }
 
 fieldset {
@@ -62,4 +66,41 @@ input {
 	color: #7c7c80;
 	font-size: 12px;
 	margin: 10px 0 0 20px;
+}
+
+.warning {
+	padding: 5px 0;
+	font-size: 10px;
+	color: #444;
+	margin: 0;
+	outline: 0;
+	font-family: 'AvenirNext',Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: normal;
+}
+
+.header {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	color: #4c4c4c;
+	line-height: 1.1;
+	font-size: 24px;
+	font-family: 'AvenirNext',Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight: 400;
+	text-align: center;
+	display: block;
+}
+
+.subhead {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	color: #4c4c4c;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 1.2;
+	text-align: center;
+	font-family: 'AvenirNext',Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
